@@ -1,7 +1,7 @@
 {
   "name": "dsn-converter",
   "main": "dist/index.js",
-  "version": "0.0.91",
+  "version": "0.0.92",
   "repository": {
     "type": "git",
     "url": "https://github.com/tscircuit/dsn-converter.git"
